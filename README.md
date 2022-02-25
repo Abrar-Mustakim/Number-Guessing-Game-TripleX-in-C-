@@ -1,2 +1,2 @@
 # Number-Guessing-Game-TripleX-in-CPP-
-<img src="file:///D:/New%20folder/c++/TripleX/2022-02-26.png"></img>
+<img src="https://github.com/Abrar-Mustakim/Number-Guessing-Game-TripleX-in-C-/blob/main/output.png?raw=true"></img>
